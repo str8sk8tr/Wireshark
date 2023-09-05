@@ -1,4 +1,4 @@
-# Wireshark Project
+# Project: "Ghost Clown"
 
 ## Project Description: 
 Capture TCP traffic and analyze. TCP packets start with a handshake (ensures the Host & Destination are ready to communicate. Both check each others open ports by sending a (SYN) packet. Need to test packets are being sent and recived and are being encrypted.
